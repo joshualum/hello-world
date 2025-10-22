@@ -10,7 +10,7 @@ I’m passionate about building digital products that make life better — from 
 
 ### 🧭 What I’m Building
 
-#### 🧓 [MemoryLane](https://memorylane.app) – Stories that connect generations  
+#### 🧓 [MemoryLane](https://memorylane.co) – Stories that connect generations  
 An AI companion that helps Singaporean seniors capture and share their life stories, stay engaged daily, and build community.  
 → Built with empathy, habit loops, and AI storytelling.
 

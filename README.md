@@ -37,7 +37,7 @@ Exploring a digital garden for thinkers — a calm space to slow down, capture i
 - 🎓 MBA Candidate at **Imperial College London** (Dean’s Impact Scholar)  
 - 💼 Product experience across **healthtech, govtech, and SaaS**  
 - 🧩 I love connecting human stories with product strategy  
-- 🌏 Based in Singapore, usually found hiking or writing on [Substack](https://productjo.super.site)
+- 🌏 Based in Singapore, usually found hiking or writing on [Substack](https://joshualum.substack.com)
 
 ---
 
